@@ -11,7 +11,7 @@
         { inherit inputs; }
         {
             systems = [
-                "x86-64_linux"
+                "x86_64-linux"
             ];
 
             imports = [
