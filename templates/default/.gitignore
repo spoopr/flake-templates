@@ -1,0 +1,6 @@
+# symlinks are treated like files by git, but ill define it as a directory for
+# redundancy
+result
+result/
+repl-result-out
+repl-result-out/
